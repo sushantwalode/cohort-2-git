@@ -20,7 +20,7 @@ button{
     margin: 10px;    
     font-size: medium;
     border-radius: 10px;
-    background-color:skyblue;
+    background-color:rgb(114, 190, 219);
     cursor: pointer;
     color: white;
     transition: background-color 0.3s ease;
